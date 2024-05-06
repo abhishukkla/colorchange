@@ -1,0 +1,30 @@
+
+
+.container{
+    margin: 100px auto 100px;
+    width: 90%;
+    text-align: center;
+}
+
+.button{
+    width: 4%;
+    height: 100%;
+    
+    display: inline-block;
+}
+#grey{
+    background-color: gray;
+    border: solid gray 54px;
+}
+#black{
+    background-color: black;
+    border: solid  54px;
+}
+#white{
+    background-color: white;
+    border: solid rgb(247, 193, 193) 54px;
+}
+#red{
+    background-color: red;
+    border: solid red 54px;
+}
